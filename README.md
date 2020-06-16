@@ -15,5 +15,6 @@
 
 ## Remotes
 
--`git push <where> <what>`: takes the master branch
-- `git remote add <name> <url>`
+-`git push <where> <what>`: takes the master branch on local computer and pushes it to origin location
+- `git remote add <name> <url>`: gives remote URL short name
+- `git pull <where> <what>: takes the remote master branch and brings it to local master branch
