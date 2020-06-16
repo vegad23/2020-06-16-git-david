@@ -4,3 +4,4 @@
 - `git status`: tells you what is going on
 - `git add`: add to staging area
 - `git commit`: commit to command
+- `git add <FILENAME>`: adds <FILENAME> to the staging area (aka index)
