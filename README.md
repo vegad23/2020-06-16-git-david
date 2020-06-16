@@ -5,3 +5,5 @@
 - `git add`: add to staging area
 - `git commit`: commit to command
 - `git add <FILENAME>`: adds <FILENAME> to the staging area (aka index)
+- `git log`: shows the history of commit we have done
+- `git log --oneline`: short version of git log
