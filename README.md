@@ -18,3 +18,7 @@
 -`git push <where> <what>`: takes the master branch on local computer and pushes it to origin location
 - `git remote add <name> <url>`: gives remote URL short name
 - `git pull <where> <what>: takes the remote master branch and brings it to local master branch
+
+##Conflicts
+-you have multiple people (yourself included) work on the same file and at the same place
+- Git will either automiatically resolve the difference or show a conflict
