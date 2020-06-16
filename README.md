@@ -12,3 +12,8 @@
 - `git diff HEAD~1 <FILE>`: compares current to last state
 - `git checkout <HASH>: revert entire folder to current state
 - `HEAD`: where you are looking at 
+
+## Remotes
+
+-`git push <where> <what>`: takes the master branch
+- `git remote add <name> <url>`
